@@ -51,10 +51,9 @@ The approach delves into a customized visualization strategy, exploring:
 - Advanced divide function applications.
 - Dynamic titles based on applied filters for a personalized experience.
 - Distinct KPI indicators for a nuanced understanding.
-- Creative conditional formatting techniques using icons or background colors
-- Data validation strategies that align with our unique business needs
-- Comprehensive PowerBi services integration
-- And much more! 😄
+- Creative conditional formatting techniques using icons or background colors.
+- Data validation strategies that align with our unique business needs.
+- Comprehensive PowerBi services integration.
 
 
 ## Business-Related Terms
@@ -146,7 +145,7 @@ gdb056:
 - Encompasses post-invoice deductions and additional details.
 This comprehensive dataset serves as the bedrock for our analytical work, facilitating insights into customer behaviour, market dynamics, and cost considerations. 
 	
-## Data Modeling	
+## [Data Modeling](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Data%20Model.png)	
 	
 1. Fundamental Role of Data Modeling:
    - Data modeling is the essential foundation for our reporting, shaping all visual elements.
@@ -168,17 +167,20 @@ Our visuals are not just reports; they are a journey. Based on unique mock-ups, 
 
 [Click here to run interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjgwZWQ3MDktYzU5MS00YjMxLThhY2YtZmMyNGE2OTAzMTdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 
-### Home View
+### [Home View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Home%20View.png)
 
 Navigate through our Home view, where every button leads to a tailored experience:
 
-- ### [Finance View]
-- ### [Sales View]
-- ### [Marketing View]
-- ### [Supply Chain View]
-- ### [Executive View]
-- ### [Info]
-- ### [Support]
+- ### [Finance View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Finance%20View.png)
+- ### [Sales View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Sales%20View.PNG)
+- ### [Marketing View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Marketing%20View.PNG)
+- ### [Supply Chain View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Supply%20Chain%20View.PNG)
+- ### [Executive View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Executive%20View.PNG)
+- ### [Info](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Info.PNG)
+- ### [Support](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Support.PNG)
+
+
+[Click here for the pbix file](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/tree/main/BI%20report)
 
 
 ## Outcome of the Project:
