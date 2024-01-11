@@ -180,9 +180,6 @@ Navigate through our Home view, where every button leads to a tailored experienc
 - ### [Support](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Support.PNG)
 
 
-[Click here for the pbix file](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/tree/main/BI%20report)
-
-
 ## Outcome of the Project:
 The report not only facilitates data-driven decision-making but also serves as a key resource for addressing a multitude of "why" questions arising in different situations. The insights derived from the report contribute significantly to informed decision-making processes, offering a holistic understanding of the underlying data.
 
