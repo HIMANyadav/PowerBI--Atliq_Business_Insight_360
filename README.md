@@ -22,11 +22,11 @@ Welcome to the Business Insights 360 project, where data meets innovation! In th
 
 ## Company’s Background
 
-AltiQ Hardware, a rapidly expanding company in the computer and accessories market, has established a global presence. Specializing in the sale of computers and related products, the company operates through three primary channels: Retailers, Direct sales, and Distributors.
+Atliq Hardware, a rapidly expanding company in the computer and accessories market, has established a global presence. Specializing in the sale of computers and related products, the company operates through three primary channels: Retailers, Direct sales, and Distributors.
 
-Despite its recent growth, AltiQ Hardware encountered unexpected losses with the opening of a store in America. The decision was influenced by surveys, intuition, and some Excel analysis. Additionally, the competitive landscape revealed that rival companies benefit from robust analytics teams, enabling them to make informed, data-driven decisions.
+Despite its recent growth, Atliq Hardware encountered unexpected losses with the opening of a store in America. The decision was influenced by surveys, intuition, and some Excel analysis. Additionally, the competitive landscape revealed that rival companies benefit from robust analytics teams, enabling them to make informed, data-driven decisions.
 
-In response to these challenges, AltiQ Hardware recognizes the need to bolster its analytical capabilities. The company has initiated a project to establish an analytics team dedicated to deriving insights from data. This strategic move aims to enhance decision-making processes, ensuring a more resilient and competitive position in the industry.
+In response to these challenges, Atliq Hardware recognizes the need to bolster its analytical capabilities. The company has initiated a project to establish an analytics team dedicated to deriving insights from data. This strategic move aims to enhance decision-making processes, ensuring a more resilient and competitive position in the industry.
 
 ## Tech stacks
 
