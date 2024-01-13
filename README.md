@@ -171,7 +171,7 @@ Our visuals are not just reports; they are a journey. Based on unique mock-ups, 
 
 Navigate through our Home view, where every button leads to a tailored experience:
 
-- ###[Finance View]
+- ###Finance View
 ![Finance View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Finance%20View.png)
 - ### [Sales View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Sales%20View.PNG)
 - ### [Marketing View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Marketing%20View.PNG)
