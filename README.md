@@ -180,7 +180,7 @@ Navigate through our Home view, where every button leads to a tailored experienc
 - ### Supply Chain View
   ![Supply Chain View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Supply%20Chain%20View.PNG)
 - ### Executive View
-  ![Executive View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Executive%20View.PNG)
+  ![Executive View](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Executives%20View.PNG)
 - ### [Info
   ![Info](https://github.com/HIMANyadav/PowerBI--Atliq_Business_Insight_360/blob/main/Visuals/Info.PNG)
 - ### Support
